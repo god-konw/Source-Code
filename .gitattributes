@@ -1,13 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
-=======
-*.pki filter=lfs diff=lfs merge=lfs -text
-*pkl filter=lfs diff=lfs merge=lfs -text
-v_clf_all.pkl filter=lfs diff=lfs merge=lfs -text
-v_clf_all_auc2.pkl filter=lfs diff=lfs merge=lfs -text
-v_clf_auc.pkl filter=lfs diff=lfs merge=lfs -text
-xgb_clf.pkl filter=lfs diff=lfs merge=lfs -text
-LR_clf.pkl filter=lfs diff=lfs merge=lfs -text
-dt_clf.pkl filter=lfs diff=lfs merge=lfs -text
-rf_clf.pkl filter=lfs diff=lfs merge=lfs -text
-svm_clf.pkl filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
