@@ -11,4 +11,3 @@ LR_clf.pkl filter=lfs diff=lfs merge=lfs -text
 dt_clf.pkl filter=lfs diff=lfs merge=lfs -text
 rf_clf.pkl filter=lfs diff=lfs merge=lfs -text
 svm_clf.pkl filter=lfs diff=lfs merge=lfs -text
->>>>>>> 22e9b11 (submit file)
